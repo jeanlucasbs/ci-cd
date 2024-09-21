@@ -1,0 +1,10 @@
+version: '3.9'
+services:
+  pg-tasks:
+    container_name: pg-tasks
+    image: postgres:16.4
+    ports:
+      - 5433:5432
+    environment:
+      - POSTGRES_DB=tasks
+      - POSTGRES_PASSWORD=admin123

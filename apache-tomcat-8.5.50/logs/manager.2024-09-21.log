@@ -39,3 +39,26 @@
 21-Sep-2024 20:50:22.895 INFO [http-nio-8002-exec-38] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/tasks'
 21-Sep-2024 20:50:24.415 INFO [http-nio-8002-exec-28] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/tasks'
 21-Sep-2024 20:50:24.415 INFO [http-nio-8002-exec-28] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\jeanl\OneDrive\Área de Trabalho\CI-CD\apache-tomcat-8.5.50\webapps\tasks.war
+21-Sep-2024 21:11:21.366 INFO [http-nio-8002-exec-41] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+21-Sep-2024 21:11:21.394 INFO [http-nio-8002-exec-41] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+21-Sep-2024 21:11:21.408 INFO [http-nio-8002-exec-42] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/tasks'
+21-Sep-2024 21:11:23.093 INFO [http-nio-8002-exec-42] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/tasks'
+21-Sep-2024 21:11:23.094 INFO [http-nio-8002-exec-42] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\jeanl\OneDrive\Área de Trabalho\CI-CD\apache-tomcat-8.5.50\webapps\tasks.war
+21-Sep-2024 21:13:22.893 INFO [http-nio-8002-exec-51] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+21-Sep-2024 21:13:22.898 INFO [http-nio-8002-exec-52] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+21-Sep-2024 21:13:22.902 INFO [http-nio-8002-exec-53] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/tasks'
+21-Sep-2024 21:13:23.685 INFO [http-nio-8002-exec-47] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/tasks'
+21-Sep-2024 21:13:23.685 INFO [http-nio-8002-exec-47] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\jeanl\OneDrive\Área de Trabalho\CI-CD\apache-tomcat-8.5.50\webapps\tasks.war
+21-Sep-2024 22:18:44.066 INFO [http-nio-8002-exec-62] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+21-Sep-2024 22:18:46.584 INFO [http-nio-8002-exec-63] org.apache.catalina.core.ApplicationContext.log HTMLManager: undeploy: Undeploying web application at '/tasks-backend'
+21-Sep-2024 22:18:49.098 INFO [http-nio-8002-exec-63] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+21-Sep-2024 22:19:01.222 INFO [http-nio-8002-exec-60] org.apache.catalina.core.ApplicationContext.log HTMLManager: undeploy: Undeploying web application at '/tasks'
+21-Sep-2024 22:19:01.933 INFO [http-nio-8002-exec-60] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+21-Sep-2024 22:20:57.019 INFO [http-nio-8002-exec-66] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+21-Sep-2024 22:20:57.024 INFO [http-nio-8002-exec-67] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/tasks-backend'
+21-Sep-2024 22:20:57.024 INFO [http-nio-8002-exec-67] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\jeanl\OneDrive\Área de Trabalho\CI-CD\apache-tomcat-8.5.50\webapps\tasks-backend.war
+21-Sep-2024 22:21:46.788 INFO [http-nio-8002-exec-69] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+21-Sep-2024 22:21:46.790 INFO [http-nio-8002-exec-66] org.apache.catalina.core.ApplicationContext.log Manager: deploy: Deploying web application '/tasks'
+21-Sep-2024 22:21:46.790 INFO [http-nio-8002-exec-66] org.apache.catalina.core.ApplicationContext.log Manager: Uploading WAR file to C:\Users\jeanl\OneDrive\Área de Trabalho\CI-CD\apache-tomcat-8.5.50\webapps\tasks.war
+21-Sep-2024 22:21:50.216 INFO [http-nio-8002-exec-58] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+21-Sep-2024 22:22:12.962 INFO [http-nio-8002-exec-70] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
